@@ -1,4 +1,10 @@
-## Hi! I am Arthur.
+# Hi! I am Arthur.
+
+[![GitHub](https://img.shields.io/github/followers/arthuro555.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/arthuro555)
+[![Twitter](https://img.shields.io/twitter/follow/arthuro555?label=Follow&style=social)](https://twitter.com/arthuro555)
+![Discord](https://img.shields.io/static/v1?message=arthuro555%239758&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+[![Keybase](https://img.shields.io/keybase/pgp/arthuro555)](https://keybase.io/arthuro555)  
+
 My name is Arthur Pacaud and I'm a hobbyist developer.  
 I contribute a lot to the open source project GDevelop but am also interested in other projects.
 
