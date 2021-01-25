@@ -2,22 +2,20 @@
 
 [![GitHub](https://img.shields.io/github/followers/arthuro555.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/arthuro555)
 [![Twitter](https://img.shields.io/twitter/follow/arthuro555?label=Follow&style=social)](https://twitter.com/arthuro555)
-![Discord](https://img.shields.io/static/v1?message=arthuro555%239758&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+![Discord](https://img.shields.io/static/v1?message=arthuro555%239738&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
 [![Keybase](https://img.shields.io/keybase/pgp/arthuro555)](https://keybase.io/arthuro555)  
 
 My name is Arthur Pacaud and I'm a hobbyist developer.  
-I contribute a lot to the open source project GDevelop but am also interested in other projects.
+I contribute a lot to the open source project [GDevelop](https://github.com/4ian/GDevelop) but I am also interested in other projects.
 
 ## My projects:
 I currently work on PRs and extensions for the open source game engine GDevelop.  
-I also have side projects connected to GDevelop like gdmod, a modding API and mod loader for any GDevelop game.
+I also have side projects connected to GDevelop like [gdmod](https://github.com/arthuro555/gdmod), a modding API and mod loader for any GDevelop game.
 
-### Frameworks/languages I like:
-- I like frameworks on top of react like react-create-app or Gatsby.
-- My favorite languages are JavaScript and python for their development speed, especially JavaScript for it's flexibility.
-- I also like C++ and Java.
-- I don't like lua and gdscript.
-- I don't like jQuery.
+### Tools I like:
+- I like frameworks on top of react like create-react-app or Gatsby.
+- My favorite language is TypeScript for its development speed and flexibility.
+- I also like C++ and Python.
 
 ### About me:
 I was born Paris. I currently am 15 and at highschool in Bonn (Germany).
