@@ -10,6 +10,7 @@ I contribute a lot to the open source project [GDevelop](https://github.com/4ian
 
 ## My projects:
 I currently work on PRs and extensions for the open source game engine GDevelop.  
+I make some bindings to native APIs in JavaScript, like [cordova-webshare-api](https://github.com/arthuro555/cordova-webshare-api).  
 I also have side projects connected to GDevelop like [gdmod](https://github.com/arthuro555/gdmod), a modding API and mod loader for any GDevelop game.
 
 ### Tools I like:
@@ -18,6 +19,6 @@ I also have side projects connected to GDevelop like [gdmod](https://github.com/
 - I also like C++ and Python.
 
 ### About me:
-I was born Paris. I currently am 15 and at highschool in Bonn (Germany).
+I was born Paris. I currently am 16 and at highschool in Bonn (Germany).
 When not programming, I like moderating chats or forums and cooking (even though I am not skilled at it 😅).
 I really like open source software and will try to contribute more to it in the future.
