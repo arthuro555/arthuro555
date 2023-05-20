@@ -43,7 +43,7 @@ And finally, my numerous extensions and examples for GDevelop:
 
 ### About me:
 
-I was born in Paris. I currently am 17 and at highschool in Bonn (Germany).
+I was born in Paris. I am 18 and just finished highschool in Bonn (Germany).
 I plan to try and get into the [KIT University](https://www.kit.edu/) after graduating from highschool.
 When not programming, I help moderating a few communities and I also like cooking (even though I am not skilled at it 😅).
 I really like open source software. Although I do not contribute to many software aside from GDevelop, I have plenty of my own 💪
