@@ -1,16 +1,18 @@
 # Hi! I am Arthur.
 
 [![GitHub](https://img.shields.io/github/followers/arthuro555.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/arthuro555)
-[![Twitter](https://img.shields.io/twitter/follow/arthuro555?label=Follow&style=social)](https://twitter.com/arthuro555)
+[![Static Badge](https://img.shields.io/badge/Follow--blue?style=social&logo=bluesky)](https://bsky.app/profile/arthuro555.com)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/112696492616565814?domain=chaos.social&style=social&label=Follow)](https://chaos.social/@arthuro555)
 ![Discord](https://img.shields.io/static/v1?message=arthuro555%239738&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
-[![Keybase](https://img.shields.io/keybase/pgp/arthuro555)](https://keybase.io/arthuro555)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/arthuro555?style=social&logo=github)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/arthuro555)
 
-My name is Arthur Pacaud and I'm a hobbyist developer :wave:
+My name is Arthur "arthuro555" Pacaud and I'm a software developer :wave:
 
 ## My projects:
 
-My main project is currently [THNK, an open source, full-fledged, and high performance multiplayer game framework for GDevelop](https://thnk.arthuro555.com).
+My main project is currently [THNK, an open source, full-fledged, and high performance multiplayer game framework for GDevelop](https://thnk.cloud).
 Most of my contributions to open source are around the open source no-/low-code game engine GDevelop.  
 
 A few other projects I am proud of:  
@@ -35,15 +37,13 @@ And finally, my numerous extensions and examples for GDevelop:
 
 ## Tools I like:
 
+- My favorite languages are Rust & TypeScript.
 - I believe JSX is the ultimate templating method 😤
-- My favorite language is TypeScript, as it allows for great flexibility while still letting one move fast without breaking things.
-- I sometimes use C++ and Python.
-- I am getting really into kubernetes 😎 It's a very interesting tool!
-- I am meaning to start learning rust and elixir seriously.
+- I love Kubernetes!
 
 ### About me:
 
-I was born in Paris. I am 18 and just finished highschool in Bonn (Germany).
-I plan to try and get into the [KIT University](https://www.kit.edu/) after graduating from highschool.
+I was born in Paris. I grew up in Germany, and now I'm 20 and failing my Bachelors at [KIT University](https://www.kit.edu/).
 When not programming, I help moderating a few communities and I also like cooking (even though I am not skilled at it 😅).
 I really like open source software. Although I do not contribute to many software aside from GDevelop, I have plenty of my own 💪
+I am a member of Entropia e.V., a regional instance of Germany's Chaos Computer Club.
