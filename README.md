@@ -1,4 +1,7 @@
-# Hi! I am Arthur.
+# Hi! I am Evelyne.
+
+> [!IMPORTANT]  
+> While this account still essentially acts my main protfolio, future projects and contributions will mostly be hosted on [my new GitHub account](https://github.com/evelynesides).
 
 [![GitHub](https://img.shields.io/github/followers/arthuro555.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/arthuro555)
 [![Static Badge](https://img.shields.io/badge/Follow--blue?style=social&logo=bluesky)](https://bsky.app/profile/arthuro555.com)
@@ -8,7 +11,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/arthuro555)
 
-My name is Arthur "arthuro555" Pacaud and I'm a software developer :wave:
+My name is Evelyne "arthuro555" Pacaud and I'm a software developer :wave:
 
 ## My projects:
 
@@ -40,10 +43,12 @@ And finally, my numerous extensions and examples for GDevelop:
 - My favorite languages are Rust & TypeScript.
 - I believe JSX is the ultimate templating method 😤
 - I love Kubernetes!
+- I love working on complex, local-first, and accessible frontends ✨
 
 ### About me:
 
-I was born in Paris. I grew up in Germany, and now I'm 20 and failing my Bachelors at [KIT University](https://www.kit.edu/).
-When not programming, I help moderating a few communities and I also like cooking (even though I am not skilled at it 😅).
-I really like open source software. Although I do not contribute to many software aside from GDevelop, I have plenty of my own 💪
-I am a member of Entropia e.V., a regional instance of Germany's Chaos Computer Club.
+I was born in Paris. I grew up in Germany, and now I'm 20 and dropped out of my Bachelors at [KIT University](https://www.kit.edu/).
+When not programming, I help moderating a few communities, I host and maintain instances of software for numerous causes, and I actively participate in associations like the [Entropia e.V](https://entropia.de) and [Flux HSG](https://flux-ka.de).
+I really like open source software. I contributed a lot to GDevelop, and I made plenty of my own 💪
+I am a member of Entropia e.V., a regional instance of Germany's Chaos Computer Club and organiser of the GPN.
+💖 Antifa :3
